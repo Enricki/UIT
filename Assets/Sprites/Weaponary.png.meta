@@ -1,0 +1,1188 @@
+fileFormatVersion: 2
+guid: cd5c3bf9bbaaf804bb1fca1930504f7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8760320041158780029
+    second: Weaponary_0
+  - first:
+      213: 7710346058264057864
+    second: Weaponary_1
+  - first:
+      213: -847030513296969923
+    second: Weaponary_2
+  - first:
+      213: 6783503978164954229
+    second: Weaponary_3
+  - first:
+      213: -8979937077729248119
+    second: Weaponary_4
+  - first:
+      213: -3058561993632694933
+    second: Weaponary_5
+  - first:
+      213: -5703401628031628969
+    second: Weaponary_6
+  - first:
+      213: 6045097533417484602
+    second: Weaponary_7
+  - first:
+      213: -8176728281251706542
+    second: Weaponary_8
+  - first:
+      213: -2926481121406650555
+    second: Weaponary_9
+  - first:
+      213: 79134986293307046
+    second: Weaponary_10
+  - first:
+      213: -9027899006234731189
+    second: Weaponary_11
+  - first:
+      213: -7968337000409985096
+    second: Weaponary_12
+  - first:
+      213: -640117475090416545
+    second: Weaponary_13
+  - first:
+      213: -7355984678828910025
+    second: Weaponary_14
+  - first:
+      213: 6183169023946143983
+    second: Weaponary_15
+  - first:
+      213: 365526457913563067
+    second: Weaponary_16
+  - first:
+      213: -6622436425326252951
+    second: Weaponary_17
+  - first:
+      213: 9211611314219612817
+    second: Weaponary_18
+  - first:
+      213: -45622736954140390
+    second: Weaponary_19
+  - first:
+      213: -8315564656795640100
+    second: Weaponary_20
+  - first:
+      213: 4298710913414760488
+    second: Weaponary_21
+  - first:
+      213: 2732996593191155721
+    second: Weaponary_22
+  - first:
+      213: 6442959333094551270
+    second: Weaponary_23
+  - first:
+      213: 1946778371490186886
+    second: Weaponary_24
+  - first:
+      213: 5107781411926712539
+    second: Weaponary_25
+  - first:
+      213: 1827977990471246828
+    second: Weaponary_26
+  - first:
+      213: 6910039692961617690
+    second: Weaponary_27
+  - first:
+      213: 8886904836498557739
+    second: Weaponary_28
+  - first:
+      213: 3435530382866335220
+    second: Weaponary_29
+  - first:
+      213: -3113407527352371868
+    second: Weaponary_30
+  - first:
+      213: 2023267758858553025
+    second: Weaponary_31
+  - first:
+      213: 3038324279091612174
+    second: Weaponary_32
+  - first:
+      213: -8322395289317220148
+    second: Weaponary_33
+  - first:
+      213: -3729147509876237076
+    second: Weaponary_34
+  - first:
+      213: -8303285797910056275
+    second: Weaponary_35
+  - first:
+      213: 1248941911428480617
+    second: Weaponary_36
+  - first:
+      213: 2932869504092914811
+    second: Weaponary_37
+  - first:
+      213: -1978643784900465177
+    second: Weaponary_38
+  - first:
+      213: 3317462774904724683
+    second: Weaponary_39
+  - first:
+      213: -2470008248741698364
+    second: Weaponary_40
+  - first:
+      213: -2431134825153810720
+    second: Weaponary_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weaponary_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74210cc9a8e29970800000000000000
+      internalID: 8760320041158780029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 789
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808992a83e6a00b60800000000000000
+      internalID: 7710346058264057864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 789
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f64056c3ebe34f0800000000000000
+      internalID: -847030513296969923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 789
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a8f67de8d32e50800000000000000
+      internalID: 6783503978164954229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 789
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb6983ecad06380800000000000000
+      internalID: -8979937077729248119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 789
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d330e521ecd85d0800000000000000
+      internalID: -3058561993632694933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7594acdef6279d0b0800000000000000
+      internalID: -5703401628031628969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 658
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3170f7ad2084e350800000000000000
+      internalID: 6045097533417484602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 658
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2590a1b43fc668e80800000000000000
+      internalID: -8176728281251706542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 658
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5477bacdcec0367d0800000000000000
+      internalID: -2926481121406650555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 658
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6615bc9d4291100800000000000000
+      internalID: 79134986293307046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 658
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd6498fa576b280800000000000000
+      internalID: -9027899006234731189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf06f757b7ca6190800000000000000
+      internalID: -7968337000409985096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 527
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c37b24c88dd17f0800000000000000
+      internalID: -640117475090416545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 527
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73adf2588ea4ae990800000000000000
+      internalID: -7355984678828910025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 527
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8328aa7770fc550800000000000000
+      internalID: 6183169023946143983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 527
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d1f7706c921500800000000000000
+      internalID: 365526457913563067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_17
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 527
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c22d888216814a0800000000000000
+      internalID: -6622436425326252951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a77016fa736df70800000000000000
+      internalID: 9211611314219612817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 396
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19da2acc5aed5ff0800000000000000
+      internalID: -45622736954140390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 396
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde17ec900e299c80800000000000000
+      internalID: -8315564656795640100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_21
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 396
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8288e2adcc618ab30800000000000000
+      internalID: 4298710913414760488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 396
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f285ebed8de520800000000000000
+      internalID: 2732996593191155721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_23
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 396
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee636f806df96950800000000000000
+      internalID: 6442959333094551270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68606194d98540b10800000000000000
+      internalID: 1946778371490186886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 265
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd02c38c12c72e640800000000000000
+      internalID: 5107781411926712539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 265
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3654b1c484e5910800000000000000
+      internalID: 1827977990471246828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 265
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1793d26d7465ef50800000000000000
+      internalID: 6910039692961617690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_28
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 265
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b823c2dd0a45b70800000000000000
+      internalID: 8886904836498557739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_29
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 265
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f54fc55ea47daf20800000000000000
+      internalID: 3435530382866335220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46572237954fac4d0800000000000000
+      internalID: -3113407527352371868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 134
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c3449e47141c10800000000000000
+      internalID: 2023267758858553025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 134
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a43b785db4a2a20800000000000000
+      internalID: 3038324279091612174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 134
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0ecdb0499e08c80800000000000000
+      internalID: -8322395289317220148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_34
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 134
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5bcef8186f3cc0800000000000000
+      internalID: -3729147509876237076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_35
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 134
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2760b3f8dc4cc80800000000000000
+      internalID: -8303285797910056275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ebacf1d02255110800000000000000
+      internalID: 1248941911428480617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c8046645a3b820800000000000000
+      internalID: 2932869504092914811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed29fff5f17a84e0800000000000000
+      internalID: -1978643784900465177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc17cd21def90e20800000000000000
+      internalID: 3317462774904724683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_40
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4677d9594c8bdd0800000000000000
+      internalID: -2470008248741698364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaponary_41
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee20a9d1cfd24ed0800000000000000
+      internalID: -2431134825153810720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
