@@ -16,7 +16,17 @@ public class TabGroup : MonoBehaviour
     public Color tabActiveColor;
 
     public TabButton selectedTab;
+    public TabGroup tabGroup;
     public List<GameObject> objectsToSwap;
+
+
+    public void OnTabGroupEnter()
+    {
+        if (tabGroup == null)
+        {
+            tabGroup = this;
+        }
+    }
 
     public void Subscribe(TabButton button)
     {

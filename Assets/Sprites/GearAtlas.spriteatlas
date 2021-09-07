@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GearAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+    totalSpriteSurfaceArea: 720762
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 6183169023946143983, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -7355984678828910025, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -6622436425326252951, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 365526457913563067, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -9027899006234731189, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 79134986293307046, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -640117475090416545, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -7968337000409985096, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -45622736954140390, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 9211611314219612817, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 3317462774904724683, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -1978643784900465177, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 2932869504092914811, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 1248941911428480617, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -8303285797910056275, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -3729147509876237076, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -8322395289317220148, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 3038324279091612174, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 2023267758858553025, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -3113407527352371868, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -5703401628031628969, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 6045097533417484602, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -8979937077729248119, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -3058561993632694933, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -847030513296969923, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 6783503978164954229, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 8760320041158780029, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 7710346058264057864, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -8176728281251706542, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -2926481121406650555, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -2470008248741698364, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -2431134825153810720, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 8886904836498557739, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 3435530382866335220, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 1946778371490186886, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 5107781411926712539, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 1827977990471246828, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 6910039692961617690, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: -8315564656795640100, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 4298710913414760488, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 2732996593191155721, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  - {fileID: 6442959333094551270, guid: cd5c3bf9bbaaf804bb1fca1930504f7f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Weaponary_15
+  - Weaponary_14
+  - Weaponary_17
+  - Weaponary_16
+  - Weaponary_11
+  - Weaponary_10
+  - Weaponary_13
+  - Weaponary_12
+  - Weaponary_19
+  - Weaponary_18
+  - Weaponary_39
+  - Weaponary_38
+  - Weaponary_37
+  - Weaponary_36
+  - Weaponary_35
+  - Weaponary_34
+  - Weaponary_33
+  - Weaponary_32
+  - Weaponary_31
+  - Weaponary_30
+  - Weaponary_6
+  - Weaponary_7
+  - Weaponary_4
+  - Weaponary_5
+  - Weaponary_2
+  - Weaponary_3
+  - Weaponary_0
+  - Weaponary_1
+  - Weaponary_8
+  - Weaponary_9
+  - Weaponary_40
+  - Weaponary_41
+  - Weaponary_28
+  - Weaponary_29
+  - Weaponary_24
+  - Weaponary_25
+  - Weaponary_26
+  - Weaponary_27
+  - Weaponary_20
+  - Weaponary_21
+  - Weaponary_22
+  - Weaponary_23
+  m_RenderDataMap: {}
+  m_Tag: GearAtlas
+  m_IsVariant: 0
